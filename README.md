@@ -23,12 +23,12 @@ MIT Lisence
 ### BootStrap
 ### axios
 ### React
-The MIT License (MIT)
+The MIT License (MIT)  
 
-Copyright (c) 2011-2018 Twitter, Inc.
-Copyright (c) 2011-2018 The Bootstrap Authors
-Copyright (c) 2014-present Matt Zabriskie
-Copyright (c) Facebook, Inc. and its affiliates.
+Copyright (c) 2011-2018 Twitter, Inc.  
+Copyright (c) 2011-2018 The Bootstrap Authors  
+Copyright (c) 2014-present Matt Zabriskie  
+Copyright (c) Facebook, Inc. and its affiliates.  
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
