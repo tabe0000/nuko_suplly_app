@@ -1,7 +1,15 @@
-import React, {Component} from 'react';
-import axios from 'axios';
+/* eslint-disable */
+require('dotenv').config()
 
-const server = "https://api.thecatapi.com/v1/images/search";
+import React, { Component } from 'react';
+import axios from 'axios';
+import 'bootstrap/dist/css/bootstrap.min.css';
+import './App.css';
+import { Button } from 'react-bootstrap';
+
+/* eslint-enable */
+
+const server = process.env.REACT_APP_URL;
 
 class App extends Component {
   constructor() {
@@ -21,8 +29,6 @@ class App extends Component {
           status: true,
           result: res.data[0].url,
         });
-        console.log(res);
-        console.log(res.data[0].url);
       })
       .catch((e) => {
         console.log(e);
@@ -31,16 +37,15 @@ class App extends Component {
           result: e,
         });
       });
-    console.log('handleClick is called');
   }
 
   render() {
     return (
       <div>
-        <h1>Welcome nuko get page!!</h1>
+        <h1>ぬこ補給用ページ</h1>
         <img src={this.state.result}></img>
         <div>
-          <button onClick={this.handleClick}>Get nuko!</button>
+          <Button className="btn" variant="info" onClick={this.handleClick}>ぬこを補給する</Button>
         </div>
       </div>
     );
