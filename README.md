@@ -6,7 +6,7 @@
 補給ボタンを押すだけで、かわいいぬこ画像を得ることができる  
 なんかReact触ってみたくなって作ってみた最初に作品   
 
-## Getting Start
+## Getting Started
 1. [theCatApi.com](https://thecatapi.com)にて、トークンを生成する
 2. ```package.json``` と同じ階層に```.env```を作成
 3. 内部に```REACT_APP_URL="https://api.thecatapi.com/v1/images/search?api_key=YOUR_API_KEY```と記述(YOUR_API_KEYのところにメールで届いたトークンをコピペ)
@@ -23,12 +23,12 @@ MIT Lisence
 ### BootStrap
 ### axios
 ### React
-The MIT License (MIT)
+The MIT License (MIT)  
 
-Copyright (c) 2011-2018 Twitter, Inc.
-Copyright (c) 2011-2018 The Bootstrap Authors
-Copyright (c) 2014-present Matt Zabriskie
-Copyright (c) Facebook, Inc. and its affiliates.
+Copyright (c) 2011-2018 Twitter, Inc.  
+Copyright (c) 2011-2018 The Bootstrap Authors  
+Copyright (c) 2014-present Matt Zabriskie  
+Copyright (c) Facebook, Inc. and its affiliates.  
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
