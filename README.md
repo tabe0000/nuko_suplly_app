@@ -4,7 +4,7 @@
 
 ## Description
 補給ボタンを押すだけで、かわいいぬこ画像を得ることができる  
-なんかReact触ってみたくなって作ってみた最初に作品   
+普段モバイルアプリばかりいじっているのもあり、なんとなくReact触ってみたくなって作ってみた最初に作品   
 
 ## Getting Started
 1. [theCatApi.com](https://thecatapi.com)にて、トークンを生成する
