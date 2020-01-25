@@ -13,7 +13,7 @@
 4. ```npm start```でサーバーを建てる
 
 ## Demo
-<img src="./temp.png" width="500">
+<img src="./demo.png" width="500">
 
 ## このアプリのライセンス
 MIT Lisence
