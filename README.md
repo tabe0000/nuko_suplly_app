@@ -16,7 +16,7 @@
 <img src="./demo.png" width="500">
 
 ## このアプリのライセンス
-MIT Lisence
+sushi-ware license
 
 
 
