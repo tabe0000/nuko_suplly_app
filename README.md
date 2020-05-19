@@ -1,4 +1,5 @@
 # ぬこ補給アプリ(nuko supply app)
+[!["THE SUSHI-WARE LICENSE"](https://img.shields.io/badge/license-SUSHI--WARE%F0%9F%8D%A3-blue.svg)](https://github.com/MakeNowJust/sushi-ware)
 ## Overview
 手軽にぬこ画像を補給できるReact製Webアプリ  
 
